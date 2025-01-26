@@ -1,0 +1,6 @@
+[submodule "taskpro2frontend"]
+	path = taskpro2frontend
+	url = https://github.com/VaibhavMah/taskpro2frontend
+[submodule "taskpro2backend"]
+	path = taskpro2backend
+	url = https://github.com/VaibhavMah/taskpro2backend
